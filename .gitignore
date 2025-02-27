@@ -1,0 +1,6 @@
+*_td.c
+*.a
+*.o
+*.exe
+[Cc]ompiler/
+[Bb]uild/
